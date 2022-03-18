@@ -112,7 +112,7 @@
 
         
       <div class="social">
-        <a href="index_.php" class="btt">EXPLORE</a>
+        <a href="index1.php" class="btt">EXPLORE</a>
       </div>
 
     </section>
