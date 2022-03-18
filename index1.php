@@ -278,7 +278,7 @@
 
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="https://www.codingnepalweb.com">Remy-Jean</a> | <span class="far fa-copyright"></span> 2022 All rights reserved.</span>
+        <span>Created By <a href="#">Remy-Jean</a> | <span class="far fa-copyright"></span> 2022 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
